@@ -1,9 +1,9 @@
-# Data Scientist
+# Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Habilidades Técnicas: Python, SQL, Modelagem de Dados, ML, IA, LLMs
 
 ## Education	        		
-- B.S., Data Science & AI | Universidade Federal da Paraíba (_May 2017_)
+- Bacharelado em Ciência de Dados & IA | Universidade Federal da Paraíba (Junho 2022 - Junho 2027 (previsão))
 
 ## Work Experience
 **Software Engineer @ Dhart (_September 2024 - Present_)**
@@ -14,7 +14,7 @@
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Projects
+## Projetos
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
