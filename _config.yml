@@ -1,5 +1,15 @@
-title: Shaw Talebi
+title: Adriel Ferreira Trajano
 logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
+languages:
+  en:
+    title: Adriel Ferreira Trajano (EN)
+    description: English version
+  pt-br:
+    title: Adriel Ferreira Trajano (PT-BR)
+    description: Versão em Português
+  
+    
