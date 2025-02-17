@@ -5,7 +5,7 @@ theme: jekyll-theme-minimal
 
 url: "https://adriel1ft.github.io"  
 
-baseurl: ""  
+baseurl: "/adriel1ft/example-portfolio"  
 
 languages:
   en:
